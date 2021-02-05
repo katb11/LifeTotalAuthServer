@@ -1,3 +1,4 @@
+package endpoints;
 
 import model.User;
 import org.apache.commons.io.IOUtils;
